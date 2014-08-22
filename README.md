@@ -10,7 +10,7 @@ Quick start
 * Extract colorcode.css to the styles folder (or wɛːrˈɛvə the hell you want it to be, its up to you!).
 * Link colorcode.css to your project style definitions.
 
-		<link rel="stylesheet" href="/styles/colorcode.min.css">
+		<link rel="stylesheet" href="styles/colorcode.min.css">
 
 Contents
 --------
