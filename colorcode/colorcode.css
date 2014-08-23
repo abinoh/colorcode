@@ -1,5 +1,5 @@
 /*!
- * 	Colorcode v0.0.1
+ * 	Colorcode v1.0.1 Amazonas
  *
  * Copyright 2014 biwinjohn
  * Licensed under the MIT License
@@ -115,4 +115,79 @@
 .z{
 	background-color: indianred;
 	color:	white;
+}
+
+/* win 8 metro ui stlyes */ 
+
+.lim,.met-1,.win-1{
+	background-color:#A4C400;
+	color:#fff;
+}
+.grn,.met-2,.win-2{
+	background-color:#60A917;
+	color:#fff;
+}
+.tea,.met-3,.win-3{
+	background-color:#00ABA9;
+	color:#fff;
+}
+.cya,.met-4,.win-4{
+	background-color:#1BA1E2;
+	color:#fff;
+}
+.cob,.met-5,.win-5{
+	background-color:#0050EF;
+	color:#fff;
+}
+.ind,.met-6,.win-6{
+	background-color:#6A00FF;
+	color:#fff;
+}
+.vio,.met-7,.win-7{
+	background-color:#AA00FF;
+	color:#fff;
+}
+.pin,.met-8,.win-8{
+	background-color:#F472D0;
+	color:#fff;
+}
+.mag,.met-9,.win-9{
+	background-color:#D80073;
+	color:#fff;
+}
+.cri,.met-10,.win-10{
+	background-color:#A20025;
+	color:#fff;
+}
+.red,.met-11,.win-11{
+	background-color:#E51400;
+	color:#fff;
+}
+.amb,.met-12,.win-12{
+	background-color:#F0A30A;
+	color:#000;
+}
+.yel,.met-13,.win-13{
+	background-color:#E3C800;
+	color:#000;
+}
+.bro,.met-14,.win-14{
+	background-color:#825A2C;
+	color:#fff;
+}
+.oli,.met-15,.win-15{
+	background-color:#6D8764;
+	color:#fff;
+}
+.ste,.met-16,.win-16{
+	background-color:#647687;
+	color:#fff;
+}
+.mau,.met-17,.win-17{
+	background-color:#76608A;
+	color:#fff;
+}
+.tau,.met-18,.win-18{
+	background-color:#87794E;
+	color:#fff;
 }
