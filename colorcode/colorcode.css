@@ -1,5 +1,5 @@
 /*!
- * 	Colorcode v1.0.2 Amazonas
+ * 	Colorcode v1.0.3 Amazonas
  *
  * Copyright 2014 biwinjohn
  * Licensed under the MIT License
@@ -10,7 +10,7 @@
  */
 
 
- /*shortcolordefinitons*/
+ /*short color definitions*/
 
  .a{
 	background-color: aqua;
@@ -190,4 +190,67 @@
 .tau,.met-18,.win-18{
 	background-color:#87794E;
 	color:#fff;
+}
+
+/*height declerations*/
+
+.h-1 {
+    height:100px;
+}
+.h-2 {
+    height:200px;
+}
+.h-3 {
+    height:300px;
+}
+.h-4 {
+    height:400px;
+}
+.h-5 {
+    height:500px;
+}
+.h-6 {
+    height:600px;
+}
+.h-7 {
+    height:700px;
+}
+.h-8 {
+    height:800px;
+}
+.h-9 {
+    height:900px;
+}
+.h-10 {
+    height:1000px
+}
+.h-11 {
+    height:1100px
+}
+.h-12 {
+    height:1200px
+}
+.h-13 {
+    height:1300px
+}
+.h-14 {
+    height:1400px
+}
+.h-15 {
+    height:1500px
+}
+.h-16 {
+    height:1600px
+}
+.h-17 {
+    height:1700px
+}
+.h-18 {
+    height:1800px
+}
+.h-19 {
+    height:1900px
+}
+.h-20 {
+    height:2000px
 }
