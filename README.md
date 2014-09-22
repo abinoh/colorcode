@@ -24,17 +24,32 @@ The contents of the package.
 
 Philosophy
 ----------
-A simple css framework to simplify the pain of web project layout and wireframes. Make it Simple and DRY.
+A simple css framework to simplify the pain of web project layout and wire-frames. Make it Simple and DRY.
 
 
 Contributing
 ------------
-Fork the code and hack it, when you are done, pull back the code. Let it be useful to someone.
+Colorcode is under development.Feature requests and pull requests are open.
+
+Keep in mind, make simple commits.
+
+
+Versioning
+----------
+Colorcode is versioned as vX.Y.Z
+
+
+X - major release
+
+Y - minor release
+
+Z - simple commits
+
 
 
 Copyright and License
 ---------------------
-Code and documentation copyright 2014 fromlovewithindia.in 
+Code and documentation copyright 2014 biwin john
 
 This code is released under [MIT] license.
 

@@ -17,3 +17,6 @@ v1.0.2
 -------
 	Add Metro UI color definitions.
 
+v1.0.3
+-------
+	Adds element height definitions.
