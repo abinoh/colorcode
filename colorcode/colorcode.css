@@ -1,5 +1,5 @@
 /*!
- * 	Colorcode v1.0.3 Amazonas
+ * 	Colorcode v1.0.4 Amazonas
  *
  * Copyright 2014 biwinjohn
  * Licensed under the MIT License
@@ -12,7 +12,7 @@
 
  /*short color definitions*/
 
- .a{
+.a{
 	background-color: aqua;
 	color:	black;
 }
@@ -117,7 +117,7 @@
 	color:	white;
 }
 
-/* win 8 metro ui stlyes */ 
+/* win 8 metro ui styles */
 
 .lim,.met-1,.win-1{
 	background-color:#A4C400;
@@ -192,7 +192,7 @@
 	color:#fff;
 }
 
-/*height declerations*/
+/*height declarations*/
 
 .h-1 {
     height:100px;
@@ -253,4 +253,68 @@
 }
 .h-20 {
     height:2000px
+}
+
+
+/*width declarations*/
+
+.w-1 {
+    width:100px;
+}
+.w-2 {
+    width:200px;
+}
+.w-3 {
+    width:300px;
+}
+.w-4 {
+    width:400px;
+}
+.w-5 {
+    width:500px;
+}
+.w-6 {
+    width:600px;
+}
+.w-7 {
+    width:700px;
+}
+.w-8 {
+    width:800px;
+}
+.w-9 {
+    width:900px;
+}
+.w-10 {
+    width:1000px;
+}
+.w-11 {
+    width:1100px;
+}
+.w-12 {
+    width:1200px;
+}
+.w-13 {
+    width:1300px;
+}
+.w-14 {
+    width:1400px;
+}
+.w-15 {
+    width:1500px;
+}
+.w-16 {
+    width:1600px;
+}
+.w-17 {
+    width:1700px;
+}
+.w-18 {
+    width:1800px;
+}
+.w-19 {
+    width:1900px;
+}
+.w-20 {
+    width:2000px;
 }
