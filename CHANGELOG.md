@@ -20,3 +20,7 @@ v1.0.2
 v1.0.3
 -------
 	Adds element height definitions.
+
+v1.0.4
+-------
+	Adds element width definitions.
