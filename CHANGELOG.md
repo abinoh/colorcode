@@ -5,8 +5,8 @@ This file lists the main changes over the development and release of colorcode.
 
 v.1 Amazonas
 
-v1.1.0
--------
+v1.1
+----
 	Basic color definitions. (a-z).
 	Adds metro style color definitions.
 	Adds Metro UI color definitions.
@@ -15,3 +15,7 @@ v1.1.0
 	fixes typos and indents.
 	bug and typo fixes.
 
+v1.2
+----
+	Flat UI colors
+	Full Height and Width.
