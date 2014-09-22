@@ -1,5 +1,5 @@
 /*!
- * 	Colorcode v1.1.0 Amazonas
+ * 	Colorcode v1.1.1 Amazonas
  *
  * Copyright 2014 biwinjohn
  * Licensed under the MIT License
@@ -319,3 +319,85 @@
     width:2000px;
 }
 
+/*flat color group definitions*/
+
+.tur,.fl-1{
+    background-color:#17BB9C;
+    color:#fff;
+}
+.emr,.fl-2{
+    background-color:#2ACB72;
+    color:#fff;
+}
+.pet,.fl-3{
+    background-color:#3598D9;
+    color:#fff;
+}
+.ame,.fl-4{
+    background-color:#9B59B4;
+    color:#fff;
+}
+.wet,.fl-5{
+    background-color:#33485D;
+    color:#fff;
+}
+.gre,.fl-6{
+    background-color:#139F85;
+    color:#fff;
+}
+.nep,.fl-7{
+    background-color:#24AD61;
+    color:#fff;
+}
+.bel,.fl-8{
+    background-color:#2A80B8;
+    color:#fff;
+}
+.wis,.fl-9{
+    background-color:#8E44AB;
+    color:#fff;
+}
+.mid,.fl-10{
+    background-color:#2B3D4F;
+    color:#fff;
+}
+.sun,.fl-11{
+    background-color:#F0C31D;
+    color:#fff;
+}
+.car,.fl-12{
+    background-color:#E57D25;
+    color:#fff;
+}
+.ali,.fl-13{
+    background-color:#E64B3C;
+    color:#fff;
+}
+.clo,.fl-14{
+    background-color:#EBEFF0;
+    color:#666;
+}
+.con,.fl-15{
+    background-color:#94A4A5;
+    color:#fff;
+}
+.ora,.fl-16{
+    background-color:#F29B1A;
+    color:#fff;
+}
+.pum,.fl-17{
+    background-color:#D25304;
+    color:#fff;
+}
+.pom,.fl-18{
+    background-color:#BF382B;
+    color:#fff;
+}
+.sil,.fl-19{
+    background-color:#BCC2C6;
+    color:#666;
+}
+.asb,.fl-20{
+    background-color:#7E8B8C;
+    color:#fff;
+}

@@ -30,3 +30,7 @@ v1.1.0
 -------
 	minor release with metro ui, height and width styles.
 
+v1.1.1
+------
+	Adds flat colors.
+
