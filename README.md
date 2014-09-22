@@ -12,13 +12,29 @@ Quick start
 
 		<link rel="stylesheet" href="styles/colorcode.min.css">
 
+Compatibility
+-------------
+Colorcode v1.x supports almost all legacy browsers including IE6+,
+
+As of Version v2.x we are dropping support for legacy browsers.
+
+
+
 Contents
 --------
 The contents of the package.
 ```
-		colorcode
-		├── LICENSE			//license
-		└── README.md 		//readme
+		.
+        ├── CHANGELOG.md
+        ├── CHANGELOG[minor].md
+        ├── colorcode
+        │   ├── colorcode.css
+        │   └── colorcode.min.css
+        ├── docs
+        │   └── index.html
+        ├── LICENSE
+        ├── README.md
+        └── templates
 ```
 
 
@@ -36,14 +52,7 @@ Keep in mind, make simple commits.
 
 Versioning
 ----------
-Colorcode is versioned as vX.Y.Z
-
-
-X - major release
-
-Y - minor release
-
-Z - simple commits
+Colorcode is [Semantic] Versioned.
 
 
 
@@ -54,6 +63,9 @@ Code and documentation copyright 2014 biwin john
 This code is released under [MIT] license.
 
 Documentation [licensed] under CC BY-NC-SA 4.0
+
+[Semantic]:http://semver.org/
+
 
 [MIT]:http://opensource.org/licenses/MIT
 
