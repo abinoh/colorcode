@@ -34,3 +34,6 @@ v1.1.1
 ------
 	Adds flat colors.
 
+v1.1.2
+	full width, height and both.
+

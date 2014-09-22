@@ -1,5 +1,5 @@
 /*!
- * 	Colorcode v1.1.1 Amazonas
+ * 	Colorcode v1.1.2 Amazonas
  *
  * Copyright 2014 biwinjohn
  * Licensed under the MIT License
@@ -319,6 +319,25 @@
     width:2000px;
 }
 
+
+/*full classes*/
+.full-h{
+    height:100%;
+    overflow: hidden;
+}
+
+.full-w{
+    width: 100%;
+    overflow: hidden;
+}
+
+.full-hw, .full-wh{
+    height: 100%;
+    width:  100%;
+    overflow: hidden;
+}
+
+
 /*flat color group definitions*/
 
 .tur,.fl-1{
@@ -401,3 +420,5 @@
     background-color:#7E8B8C;
     color:#fff;
 }
+
+
