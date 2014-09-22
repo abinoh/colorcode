@@ -20,6 +20,7 @@ v1.0.2
 v1.0.3
 -------
 	Adds element height definitions.
+	fixes typos and indents.
 
 v1.0.4
 -------
