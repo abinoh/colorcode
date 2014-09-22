@@ -4,9 +4,6 @@ This file lists the main changes over the development and release of colorcode.
 
 
 v.1 Amazonas
-------------
-
-
 
 v1.1.0
 -------
