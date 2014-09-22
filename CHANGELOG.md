@@ -5,12 +5,15 @@ This file lists the main changes over the development and release of colorcode.
 
 v.1.0.1 Amazonas
 ----------------
-	Adds metro style color defintions.
+	Adds metro style color definitions.
 
 
-v0.0.0 
+v1.0.1
 -------
-	Intitial commit.
+	Initial commit.
 	Basic color definitions. (a-z).
-	Introduces directories.
-	
+
+v1.0.2
+-------
+	Add Metro UI color definitions.
+
